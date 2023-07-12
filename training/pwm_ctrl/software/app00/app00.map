@@ -1,0 +1,724 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_main.o)
+                              c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp//obj/HAL/src/crt0.o (alt_main)
+c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_putstr.o)
+                              obj/default/hello_world_small.o (alt_putstr)
+c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_sys_init.o)
+                              c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_main.o) (alt_irq_init)
+c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                              c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_putstr.o) (altera_avalon_jtag_uart_write)
+c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_onchip_flash.o)
+                              c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_sys_init.o) (alt_onchip_flash_read)
+c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+                              c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_onchip_flash.o) (alt_busy_sleep)
+c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_dcache_flush.o)
+                              c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_onchip_flash.o) (alt_dcache_flush)
+c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                              c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_onchip_flash.o) (alt_dev_llist_insert)
+c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_errno.o)
+                              c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_dev_llist_insert.o) (alt_errno)
+c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_flash_dev.o)
+                              c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_onchip_flash.o) (alt_flash_dev_list)
+c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                              c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_sys_init.o) (altera_nios2_gen2_irq_init)
+c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_find_dev.o)
+                              c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_flash_dev.o) (alt_find_dev)
+c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+                              c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_dev_llist_insert.o) (errno)
+c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+                              c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_onchip_flash.o) (memcmp)
+c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+                              c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_onchip_flash.o) (memcpy)
+c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+                              c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_putstr.o) (strlen)
+c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+                              c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_onchip_flash.o) (__divsi3)
+c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+                              c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_busy_sleep.o) (__mulsi3)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+onchip_memory2_0_BEFORE_EXCEPTION 0x0000000000010000 0x0000000000000020
+onchip_memory2_0 0x0000000000010020 0x0000000000003fe0
+reset            0x0000000000060000 0x0000000000000020
+onchip_flash_0_data 0x0000000000060020 0x000000000001c7e0
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp//obj/HAL/src/crt0.o
+LOAD obj/default/hello_world_small.o
+LOAD c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libstdc++.a
+LOAD c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libm.a
+LOAD c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/mno-hw-mul\libgcc.a
+START GROUP
+LOAD c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a
+LOAD c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/mno-hw-mul\libgcc.a
+LOAD c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a
+LOAD c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libm.a
+END GROUP
+LOAD c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/mno-hw-mul\libgcc.a
+                0x0000000000010000                __alt_mem_onchip_memory2_0 = 0x10000
+                0x0000000000060000                __alt_mem_onchip_flash_0_data = 0x60000
+
+.entry          0x0000000000060000        0x0
+ *(.entry)
+ .entry         0x0000000000060000        0x0 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp//obj/HAL/src/crt0.o
+                0x0000000000060000                _exit
+                0x0000000000060000                __reset
+
+.exceptions     0x0000000000010020        0x0
+                [!provide]                        PROVIDE (__ram_exceptions_start = ABSOLUTE (.))
+                0x0000000000010020                . = ALIGN (0x20)
+ *(.irq)
+ *(.exceptions.entry.label)
+ *(.exceptions.entry.user)
+ *(.exceptions.entry.ecc_fatal)
+ *(.exceptions.entry)
+ *(.exceptions.irqtest.user)
+ *(.exceptions.irqtest)
+ *(.exceptions.irqhandler.user)
+ *(.exceptions.irqhandler)
+ *(.exceptions.irqreturn.user)
+ *(.exceptions.irqreturn)
+ *(.exceptions.notirq.label)
+ *(.exceptions.notirq.user)
+ *(.exceptions.notirq)
+ *(.exceptions.soft.user)
+ *(.exceptions.soft)
+ *(.exceptions.unknown.user)
+ *(.exceptions.unknown)
+ *(.exceptions.exit.label)
+ *(.exceptions.exit.user)
+ *(.exceptions.exit)
+ *(.exceptions)
+                [!provide]                        PROVIDE (__ram_exceptions_end = ABSOLUTE (.))
+                [!provide]                        PROVIDE (__flash_exceptions_start = LOADADDR (.exceptions))
+
+.text           0x0000000000060020      0xfec
+                [!provide]                        PROVIDE (stext = ABSOLUTE (.))
+ *(.interp)
+ *(.hash)
+ *(.dynsym)
+ *(.dynstr)
+ *(.gnu.version)
+ *(.gnu.version_d)
+ *(.gnu.version_r)
+ *(.rel.init)
+ *(.rela.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rela.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rela.ctors)
+ *(.rel.dtors)
+ *(.rela.dtors)
+ *(.rel.got)
+ *(.rela.got)
+ *(.rel.sdata .rel.sdata.* .rel.gnu.linkonce.s.*)
+ *(.rela.sdata .rela.sdata.* .rela.gnu.linkonce.s.*)
+ *(.rel.sbss .rel.sbss.* .rel.gnu.linkonce.sb.*)
+ *(.rela.sbss .rela.sbss.* .rela.gnu.linkonce.sb.*)
+ *(.rel.sdata2 .rel.sdata2.* .rel.gnu.linkonce.s2.*)
+ *(.rela.sdata2 .rela.sdata2.* .rela.gnu.linkonce.s2.*)
+ *(.rel.sbss2 .rel.sbss2.* .rel.gnu.linkonce.sb2.*)
+ *(.rela.sbss2 .rela.sbss2.* .rela.gnu.linkonce.sb2.*)
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rel.plt)
+ *(.rela.plt)
+ *(.rel.dyn)
+ *(.init)
+ *(.plt)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000060020       0x38 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp//obj/HAL/src/crt0.o
+                0x0000000000060020                _start
+ .text          0x0000000000060058      0x178 obj/default/hello_world_small.o
+                0x0000000000060058                _wait
+                0x0000000000060090                SetPeriod
+ .text.startup  0x00000000000601d0       0xd8 obj/default/hello_world_small.o
+                0x00000000000601d0                main
+ .text          0x00000000000602a8       0x2c c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_main.o)
+                0x00000000000602a8                alt_main
+ .text          0x00000000000602d4       0x38 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_putstr.o)
+                0x00000000000602d4                alt_putstr
+ .text          0x000000000006030c       0x2c c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_sys_init.o)
+                0x000000000006030c                alt_irq_init
+                0x000000000006032c                alt_sys_init
+ .text          0x0000000000060338       0x30 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                0x0000000000060338                altera_avalon_jtag_uart_write
+ .text          0x0000000000060368      0x880 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_onchip_flash.o)
+                0x0000000000060368                alt_onchip_flash_read
+                0x00000000000603d4                alt_onchip_flash_get_info
+                0x0000000000060414                alt_onchip_flash_write
+                0x00000000000605b4                altera_onchip_flash_init
+                0x0000000000060848                alt_onchip_flash_poll_for_status_to_go_idle
+                0x00000000000608a0                alt_onchip_flash_poll_for_status_erase_passed
+                0x00000000000608fc                alt_onchip_flash_erase_block
+                0x00000000000609dc                alt_onchip_flash_poll_for_status_write_passed
+                0x0000000000060a38                alt_onchip_flash_write_block
+ .text          0x0000000000060be8       0x90 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+                0x0000000000060be8                alt_busy_sleep
+ .text          0x0000000000060c78        0x4 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_dcache_flush.o)
+                0x0000000000060c78                alt_dcache_flush
+ .text          0x0000000000060c7c       0x68 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                0x0000000000060c7c                alt_dev_llist_insert
+ .text          0x0000000000060ce4        0x0 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_errno.o)
+ .text          0x0000000000060ce4       0x60 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_flash_dev.o)
+                0x0000000000060ce4                alt_flash_open_dev
+                0x0000000000060d30                alt_flash_close_dev
+ .text          0x0000000000060d44        0x8 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                0x0000000000060d44                altera_nios2_gen2_irq_init
+ .text          0x0000000000060d4c       0x70 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_find_dev.o)
+                0x0000000000060d4c                alt_find_dev
+ .text          0x0000000000060dbc        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .text          0x0000000000060dbc        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .text.memcmp   0x0000000000060dbc       0x30 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+                0x0000000000060dbc                memcmp
+ .text          0x0000000000060dec        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .text.memcpy   0x0000000000060dec       0x28 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+                0x0000000000060dec                memcpy
+ .text          0x0000000000060e14        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .text.strlen   0x0000000000060e14       0x1c c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+                0x0000000000060e14                strlen
+ .text          0x0000000000060e30      0x1b4 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+                0x0000000000060e30                __divsi3
+                0x0000000000060eb0                __modsi3
+                0x0000000000060f24                __udivsi3
+                0x0000000000060f88                __umodsi3
+ .text          0x0000000000060fe4       0x28 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+                0x0000000000060fe4                __mulsi3
+ *(.gnu.warning.*)
+ *(.fini)
+                [!provide]                        PROVIDE (__etext = ABSOLUTE (.))
+                [!provide]                        PROVIDE (_etext = ABSOLUTE (.))
+                [!provide]                        PROVIDE (etext = ABSOLUTE (.))
+ *(.eh_frame_hdr)
+                0x000000000006100c                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__preinit_array_start = ABSOLUTE (.))
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = ABSOLUTE (.))
+                [!provide]                        PROVIDE (__init_array_start = ABSOLUTE (.))
+ *(.init_array)
+                [!provide]                        PROVIDE (__init_array_end = ABSOLUTE (.))
+                [!provide]                        PROVIDE (__fini_array_start = ABSOLUTE (.))
+ *(.fini_array)
+                [!provide]                        PROVIDE (__fini_array_end = ABSOLUTE (.))
+ *(.eh_frame)
+ *(.gcc_except_table .gcc_except_table.*)
+ *(.dynamic)
+                [!provide]                        PROVIDE (__CTOR_LIST__ = ABSOLUTE (.))
+ *(.ctors)
+ *(SORT_BY_NAME(.ctors.*))
+                [!provide]                        PROVIDE (__CTOR_END__ = ABSOLUTE (.))
+                [!provide]                        PROVIDE (__DTOR_LIST__ = ABSOLUTE (.))
+ *(.dtors)
+ *(SORT_BY_NAME(.dtors.*))
+                [!provide]                        PROVIDE (__DTOR_END__ = ABSOLUTE (.))
+ *(.jcr)
+                0x000000000006100c                . = ALIGN (0x4)
+
+.rodata         0x0000000000010020       0x34
+                [!provide]                        PROVIDE (__ram_rodata_start = ABSOLUTE (.))
+                0x0000000000010020                . = ALIGN (0x4)
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.4
+                0x0000000000010020       0x15 obj/default/hello_world_small.o
+ *fill*         0x0000000000010035        0x3 
+ .rodata.str1.4
+                0x0000000000010038       0x19 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_sys_init.o)
+ *(.rodata1)
+                0x0000000000010054                . = ALIGN (0x4)
+ *fill*         0x0000000000010051        0x3 
+                [!provide]                        PROVIDE (__ram_rodata_end = ABSOLUTE (.))
+                [!provide]                        PROVIDE (__flash_rodata_start = LOADADDR (.rodata))
+
+.rwdata         0x0000000000010054      0x120
+                [!provide]                        PROVIDE (__ram_rwdata_start = ABSOLUTE (.))
+                0x0000000000010054                . = ALIGN (0x4)
+ *(.got.plt)
+ *(.got)
+ *(.data1)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000000000010054        0x0 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp//obj/HAL/src/crt0.o
+ .data          0x0000000000010054        0x0 obj/default/hello_world_small.o
+ .data          0x0000000000010054        0x0 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_main.o)
+ .data          0x0000000000010054        0x0 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_putstr.o)
+ .data          0x0000000000010054      0x100 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .data          0x0000000000010154        0x0 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .data          0x0000000000010154        0x0 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_onchip_flash.o)
+ .data          0x0000000000010154        0x0 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .data          0x0000000000010154        0x0 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_dcache_flush.o)
+ .data          0x0000000000010154        0x0 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .data          0x0000000000010154        0x0 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_errno.o)
+ .data          0x0000000000010154        0x0 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_flash_dev.o)
+ .data          0x0000000000010154        0x0 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .data          0x0000000000010154        0x0 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .data          0x0000000000010154        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .data          0x0000000000010154        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .data          0x0000000000010154        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .data          0x0000000000010154        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .data          0x0000000000010154        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .data          0x0000000000010154        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+                0x0000000000018154                _gp = ABSOLUTE ((. + 0x8000))
+                [!provide]                        PROVIDE (gp = _gp)
+ *(.rwdata .rwdata.*)
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata         0x0000000000010154        0x8 obj/default/hello_world_small.o
+                0x0000000000010154                Decode0
+                0x0000000000010158                Period0
+ .sdata         0x000000000001015c        0x4 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_sys_init.o)
+                0x000000000001015c                jtag_uart_0
+ .sdata         0x0000000000010160        0x8 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_onchip_flash.o)
+                0x0000000000010160                altera_onchip_flash_list
+ .sdata         0x0000000000010168        0x4 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_errno.o)
+                0x0000000000010168                alt_errno
+ .sdata         0x000000000001016c        0x8 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_flash_dev.o)
+                0x000000000001016c                alt_flash_dev_list
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+                0x0000000000010174                . = ALIGN (0x4)
+                0x0000000000010174                _edata = ABSOLUTE (.)
+                [!provide]                        PROVIDE (edata = ABSOLUTE (.))
+                [!provide]                        PROVIDE (__ram_rwdata_end = ABSOLUTE (.))
+                [!provide]                        PROVIDE (__flash_rwdata_start = LOADADDR (.rwdata))
+
+.bss            0x0000000000010174       0x14
+                0x0000000000010174                __bss_start = ABSOLUTE (.)
+                [!provide]                        PROVIDE (__sbss_start = ABSOLUTE (.))
+                [!provide]                        PROVIDE (___sbss_start = ABSOLUTE (.))
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss          0x0000000000010174        0x4 obj/default/hello_world_small.o
+                0x0000000000010174                buttoncount
+ .sbss          0x0000000000010178        0xc c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_main.o)
+                0x0000000000010178                alt_envp
+                0x000000000001017c                alt_argv
+                0x0000000000010180                alt_argc
+ .sbss.errno    0x0000000000010184        0x4 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+                0x0000000000010184                errno
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+ *(.scommon)
+                [!provide]                        PROVIDE (__sbss_end = ABSOLUTE (.))
+                [!provide]                        PROVIDE (___sbss_end = ABSOLUTE (.))
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000000000010188        0x0 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp//obj/HAL/src/crt0.o
+ .bss           0x0000000000010188        0x0 obj/default/hello_world_small.o
+ .bss           0x0000000000010188        0x0 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_main.o)
+ .bss           0x0000000000010188        0x0 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_putstr.o)
+ .bss           0x0000000000010188        0x0 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .bss           0x0000000000010188        0x0 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .bss           0x0000000000010188        0x0 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_onchip_flash.o)
+ .bss           0x0000000000010188        0x0 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .bss           0x0000000000010188        0x0 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_dcache_flush.o)
+ .bss           0x0000000000010188        0x0 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .bss           0x0000000000010188        0x0 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_errno.o)
+ .bss           0x0000000000010188        0x0 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_flash_dev.o)
+ .bss           0x0000000000010188        0x0 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .bss           0x0000000000010188        0x0 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .bss           0x0000000000010188        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .bss           0x0000000000010188        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .bss           0x0000000000010188        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .bss           0x0000000000010188        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .bss           0x0000000000010188        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .bss           0x0000000000010188        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+ *(COMMON)
+                0x0000000000010188                . = ALIGN (0x4)
+                0x0000000000010188                __bss_end = ABSOLUTE (.)
+
+.onchip_memory2_0
+                0x0000000000010188        0x0
+                [!provide]                        PROVIDE (_alt_partition_onchip_memory2_0_start = ABSOLUTE (.))
+ *(.onchip_memory2_0 .onchip_memory2_0. onchip_memory2_0.*)
+                0x0000000000010188                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (_alt_partition_onchip_memory2_0_end = ABSOLUTE (.))
+                0x0000000000010188                _end = ABSOLUTE (.)
+                0x0000000000010188                end = ABSOLUTE (.)
+                0x0000000000010188                __alt_stack_base = ABSOLUTE (.)
+                [!provide]                        PROVIDE (_alt_partition_onchip_memory2_0_load_addr = LOADADDR (.onchip_memory2_0))
+
+.onchip_flash_0_data
+                0x000000000006100c        0x0
+                [!provide]                        PROVIDE (_alt_partition_onchip_flash_0_data_start = ABSOLUTE (.))
+ *(.onchip_flash_0_data .onchip_flash_0_data. onchip_flash_0_data.*)
+                0x000000000006100c                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (_alt_partition_onchip_flash_0_data_end = ABSOLUTE (.))
+                [!provide]                        PROVIDE (_alt_partition_onchip_flash_0_data_load_addr = LOADADDR (.onchip_flash_0_data))
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x2d
+ *(.comment)
+ .comment       0x0000000000000000       0x2d obj/default/hello_world_small.o
+                                         0x2e (size before relaxing)
+ .comment       0x000000000000002d       0x2e c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_main.o)
+ .comment       0x000000000000002d       0x2e c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_putstr.o)
+ .comment       0x000000000000002d       0x2e c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .comment       0x000000000000002d       0x2e c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .comment       0x000000000000002d       0x2e c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_onchip_flash.o)
+ .comment       0x000000000000002d       0x2e c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .comment       0x000000000000002d       0x2e c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_dcache_flush.o)
+ .comment       0x000000000000002d       0x2e c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .comment       0x000000000000002d       0x2e c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_errno.o)
+ .comment       0x000000000000002d       0x2e c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_flash_dev.o)
+ .comment       0x000000000000002d       0x2e c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .comment       0x000000000000002d       0x2e c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .comment       0x000000000000002d       0x2e c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .comment       0x000000000000002d       0x2e c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .comment       0x000000000000002d       0x2e c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .comment       0x000000000000002d       0x2e c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .comment       0x000000000000002d       0x2e c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .comment       0x000000000000002d       0x2e c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x278
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x20 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp//obj/HAL/src/crt0.o
+ .debug_aranges
+                0x0000000000000020       0x28 obj/default/hello_world_small.o
+ .debug_aranges
+                0x0000000000000048       0x20 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_aranges
+                0x0000000000000068       0x20 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_putstr.o)
+ .debug_aranges
+                0x0000000000000088       0x20 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_aranges
+                0x00000000000000a8       0x20 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_aranges
+                0x00000000000000c8       0x20 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_onchip_flash.o)
+ .debug_aranges
+                0x00000000000000e8       0x20 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .debug_aranges
+                0x0000000000000108       0x20 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_dcache_flush.o)
+ .debug_aranges
+                0x0000000000000128       0x20 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_aranges
+                0x0000000000000148       0x18 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_aranges
+                0x0000000000000160       0x20 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_flash_dev.o)
+ .debug_aranges
+                0x0000000000000180       0x20 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_aranges
+                0x00000000000001a0       0x20 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_aranges
+                0x00000000000001c0       0x18 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_aranges
+                0x00000000000001d8       0x20 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .debug_aranges
+                0x00000000000001f8       0x20 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_aranges
+                0x0000000000000218       0x20 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_aranges
+                0x0000000000000238       0x20 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_aranges
+                0x0000000000000258       0x20 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x2e85
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000       0x26 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp//obj/HAL/src/crt0.o
+ .debug_info    0x0000000000000026      0x1e6 obj/default/hello_world_small.o
+ .debug_info    0x000000000000020c      0x13e c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_info    0x000000000000034a      0x15c c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_putstr.o)
+ .debug_info    0x00000000000004a6      0x609 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_info    0x0000000000000aaf      0x149 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_info    0x0000000000000bf8      0xcf0 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_onchip_flash.o)
+ .debug_info    0x00000000000018e8      0x10c c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .debug_info    0x00000000000019f4       0xb8 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_dcache_flush.o)
+ .debug_info    0x0000000000001aac      0x1c9 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_info    0x0000000000001c75       0xa8 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_info    0x0000000000001d1d      0x5ff c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_flash_dev.o)
+ .debug_info    0x000000000000231c       0x8d c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_info    0x00000000000023a9      0x361 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_info    0x000000000000270a       0x85 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_info    0x000000000000278f       0xf9 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .debug_info    0x0000000000002888      0x121 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_info    0x00000000000029a9       0xd1 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_info    0x0000000000002a7a      0x347 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_info    0x0000000000002dc1       0xc4 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+
+.debug_abbrev   0x0000000000000000     0x120a
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0x14 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp//obj/HAL/src/crt0.o
+ .debug_abbrev  0x0000000000000014      0x142 obj/default/hello_world_small.o
+ .debug_abbrev  0x0000000000000156       0xeb c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_abbrev  0x0000000000000241       0xd3 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_putstr.o)
+ .debug_abbrev  0x0000000000000314      0x199 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_abbrev  0x00000000000004ad       0xdc c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_abbrev  0x0000000000000589      0x2fe c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_onchip_flash.o)
+ .debug_abbrev  0x0000000000000887       0xb9 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .debug_abbrev  0x0000000000000940       0x7b c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_dcache_flush.o)
+ .debug_abbrev  0x00000000000009bb      0x147 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_abbrev  0x0000000000000b02       0x70 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_abbrev  0x0000000000000b72      0x170 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_flash_dev.o)
+ .debug_abbrev  0x0000000000000ce2       0x43 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_abbrev  0x0000000000000d25      0x132 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_abbrev  0x0000000000000e57       0x39 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_abbrev  0x0000000000000e90       0xa1 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .debug_abbrev  0x0000000000000f31       0xc1 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_abbrev  0x0000000000000ff2       0x8c c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_abbrev  0x000000000000107e      0x10c c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_abbrev  0x000000000000118a       0x80 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+
+.debug_line     0x0000000000000000     0x16e0
+ *(.debug_line)
+ .debug_line    0x0000000000000000       0x51 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp//obj/HAL/src/crt0.o
+ .debug_line    0x0000000000000051      0x2ab obj/default/hello_world_small.o
+ .debug_line    0x00000000000002fc       0xa2 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_line    0x000000000000039e       0x79 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_putstr.o)
+ .debug_line    0x0000000000000417       0xad c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_line    0x00000000000004c4       0x93 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_line    0x0000000000000557      0x7ec c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_onchip_flash.o)
+ .debug_line    0x0000000000000d43       0xe2 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .debug_line    0x0000000000000e25       0x57 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_dcache_flush.o)
+ .debug_line    0x0000000000000e7c       0xfd c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_line    0x0000000000000f79       0x4c c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_line    0x0000000000000fc5       0xd4 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_flash_dev.o)
+ .debug_line    0x0000000000001099       0x54 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_line    0x00000000000010ed       0xb7 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_line    0x00000000000011a4       0x3a c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_line    0x00000000000011de       0x8f c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .debug_line    0x000000000000126d       0x8c c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_line    0x00000000000012f9       0x7c c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_line    0x0000000000001375      0x2e3 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_line    0x0000000000001658       0x88 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+
+.debug_frame    0x0000000000000000      0x4c8
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x60 obj/default/hello_world_small.o
+ .debug_frame   0x0000000000000060       0x2c c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_frame   0x000000000000008c       0x30 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_putstr.o)
+ .debug_frame   0x00000000000000bc       0x3c c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_frame   0x00000000000000f8       0x20 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_frame   0x0000000000000118      0x1b4 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_onchip_flash.o)
+ .debug_frame   0x00000000000002cc       0x34 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .debug_frame   0x0000000000000300       0x20 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_dcache_flush.o)
+ .debug_frame   0x0000000000000320       0x2c c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_frame   0x000000000000034c       0x4c c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_flash_dev.o)
+ .debug_frame   0x0000000000000398       0x20 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_frame   0x00000000000003b8       0x40 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_frame   0x00000000000003f8       0x20 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .debug_frame   0x0000000000000418       0x20 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_frame   0x0000000000000438       0x20 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_frame   0x0000000000000458       0x50 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_frame   0x00000000000004a8       0x20 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+
+.debug_str      0x0000000000000000      0xa25
+ *(.debug_str)
+ .debug_str     0x0000000000000000       0x5c c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp//obj/HAL/src/crt0.o
+ .debug_str     0x000000000000005c       0xba obj/default/hello_world_small.o
+                                         0xdb (size before relaxing)
+ .debug_str     0x0000000000000116       0xa7 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_main.o)
+                                        0x138 (size before relaxing)
+ .debug_str     0x00000000000001bd       0x58 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_putstr.o)
+                                        0x14b (size before relaxing)
+ .debug_str     0x0000000000000215      0x374 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_sys_init.o)
+                                        0x4f7 (size before relaxing)
+ .debug_str     0x0000000000000589        0x7 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                                        0x15c (size before relaxing)
+ .debug_str     0x0000000000000590      0x278 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_onchip_flash.o)
+                                        0x6f4 (size before relaxing)
+ .debug_str     0x0000000000000808       0x2d c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+                                        0x12c (size before relaxing)
+ .debug_str     0x0000000000000835        0x6 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_dcache_flush.o)
+                                        0x107 (size before relaxing)
+ .debug_str     0x000000000000083b       0x2f c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                                        0x174 (size before relaxing)
+ .debug_str     0x000000000000086a        0x8 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_errno.o)
+                                         0xfa (size before relaxing)
+ .debug_str     0x0000000000000872       0x76 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_flash_dev.o)
+                                        0x308 (size before relaxing)
+ .debug_str     0x00000000000008e8      0x103 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_str     0x00000000000008e8        0x7 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_find_dev.o)
+                                        0x1a4 (size before relaxing)
+ .debug_str     0x00000000000008ef       0x5e c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+                                         0xf9 (size before relaxing)
+ .debug_str     0x000000000000094d      0x101 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .debug_str     0x000000000000094d       0x14 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+                                        0x115 (size before relaxing)
+ .debug_str     0x0000000000000961      0x107 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_str     0x0000000000000961       0xc4 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+                                        0x122 (size before relaxing)
+ .debug_str     0x0000000000000a25       0xe6 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_alt_sim_info
+                0x0000000000000000       0x40
+ *(.debug_alt_sim_info)
+ .debug_alt_sim_info
+                0x0000000000000000       0x10 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp//obj/HAL/src/crt0.o
+ .debug_alt_sim_info
+                0x0000000000000010       0x30 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+                0x0000000000014000                __alt_data_end = 0x14000
+                0x0000000000014000                PROVIDE (__alt_stack_pointer = __alt_data_end)
+                [!provide]                        PROVIDE (__alt_stack_limit = __alt_stack_base)
+                [!provide]                        PROVIDE (__alt_heap_start = end)
+                [!provide]                        PROVIDE (__alt_heap_limit = 0x14000)
+OUTPUT(app00.elf elf32-littlenios2)
+LOAD linker stubs
+
+.debug_loclists
+                0x0000000000000000     0x1260
+ .debug_loclists
+                0x0000000000000000       0x81 obj/default/hello_world_small.o
+ .debug_loclists
+                0x0000000000000081       0x2c c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_putstr.o)
+ .debug_loclists
+                0x00000000000000ad       0x1e c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_loclists
+                0x00000000000000cb       0x5e c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_loclists
+                0x0000000000000129      0xa31 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_onchip_flash.o)
+ .debug_loclists
+                0x0000000000000b5a       0x8a c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+ .debug_loclists
+                0x0000000000000be4       0x4e c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_loclists
+                0x0000000000000c32       0x65 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_flash_dev.o)
+ .debug_loclists
+                0x0000000000000c97       0x6a c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_loclists
+                0x0000000000000d01       0x8c c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .debug_loclists
+                0x0000000000000d8d       0xcc c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_loclists
+                0x0000000000000e59       0x32 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_loclists
+                0x0000000000000e8b      0x37a c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_loclists
+                0x0000000000001205       0x5b c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+
+.debug_rnglists
+                0x0000000000000000       0xd7
+ .debug_rnglists
+                0x0000000000000000       0x1b obj/default/hello_world_small.o
+ .debug_rnglists
+                0x000000000000001b       0x2e c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_onchip_flash.o)
+ .debug_rnglists
+                0x0000000000000049       0x16 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_rnglists
+                0x000000000000005f       0x13 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .debug_rnglists
+                0x0000000000000072       0x13 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_rnglists
+                0x0000000000000085       0x13 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_rnglists
+                0x0000000000000098       0x3f c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+
+.debug_line_str
+                0x0000000000000000      0x8f0
+ .debug_line_str
+                0x0000000000000000       0xa4 obj/default/hello_world_small.o
+                                        0x106 (size before relaxing)
+ .debug_line_str
+                0x00000000000000a4       0x9e c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_main.o)
+                                         0xfa (size before relaxing)
+ .debug_line_str
+                0x0000000000000142       0xd2 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_putstr.o)
+                                        0x178 (size before relaxing)
+ .debug_line_str
+                0x0000000000000214       0xa9 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_sys_init.o)
+                                        0x15b (size before relaxing)
+ .debug_line_str
+                0x00000000000002bd       0x38 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                                        0x13e (size before relaxing)
+ .debug_line_str
+                0x00000000000002f5       0x5a c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_onchip_flash.o)
+                                        0x25c (size before relaxing)
+ .debug_line_str
+                0x000000000000034f       0x19 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_busy_sleep.o)
+                                         0xdd (size before relaxing)
+ .debug_line_str
+                0x0000000000000368       0x1b c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_dcache_flush.o)
+                                         0xe3 (size before relaxing)
+ .debug_line_str
+                0x0000000000000383       0x2b c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                                        0x11e (size before relaxing)
+ .debug_line_str
+                0x00000000000003ae       0x66 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_errno.o)
+                                        0x12c (size before relaxing)
+ .debug_line_str
+                0x0000000000000414       0x2d c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_flash_dev.o)
+                                        0x13a (size before relaxing)
+ .debug_line_str
+                0x0000000000000441       0x20 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                                         0xdc (size before relaxing)
+ .debug_line_str
+                0x0000000000000461       0x17 c:/work/my_rtl/lemonlite/training/pwm_ctrl/software/app00_bsp/\libhal_bsp.a(alt_find_dev.o)
+                                        0x1b8 (size before relaxing)
+ .debug_line_str
+                0x0000000000000478      0x103 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+                                        0x1dd (size before relaxing)
+ .debug_line_str
+                0x000000000000057b      0x1cb c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+                                        0x2b3 (size before relaxing)
+ .debug_line_str
+                0x0000000000000746       0x3f c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+                                        0x2b3 (size before relaxing)
+ .debug_line_str
+                0x0000000000000785       0x3f c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+                                        0x2b3 (size before relaxing)
+ .debug_line_str
+                0x00000000000007c4       0xf2 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+                                        0x1b6 (size before relaxing)
+ .debug_line_str
+                0x00000000000008b6       0x3a c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+                                        0x1ad (size before relaxing)

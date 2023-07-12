@@ -1,0 +1,12 @@
+Power Analyzer Status : Successful - Wed Jul 12 13:10:18 2023
+Quartus Prime Version : 22.1std.1 Build 917 02/14/2023 SC Lite Edition
+Revision Name : pwm_ctrl
+Top-level Entity Name : pwm_ctrl
+Family : MAX 10
+Device : 10M08SAE144C8G
+Power Models : Final
+Total Thermal Power Dissipation : 118.06 mW
+Core Dynamic Thermal Power Dissipation : 1.63 mW
+Core Static Thermal Power Dissipation : 110.61 mW
+I/O Thermal Power Dissipation : 5.82 mW
+Power Estimation Confidence : Low: user provided insufficient toggle rate data

@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+newSoftwareExampleWizardPage.defaultLocation=C\:\\work\\my_rtl\\lemonlite\\training\\pwm_ctrl\\software\\app00
+newSoftwareExampleWizardPage.sopcinfoFile=C\:\\work\\my_rtl\\lemonlite\\training\\pwm_ctrl\\nios2e.sopcinfo
+newSoftwareExampleWizardPage2.newBspLocation=C\:\\work\\my_rtl\\lemonlite\\training\\pwm_ctrl\\software\\app00_bsp
